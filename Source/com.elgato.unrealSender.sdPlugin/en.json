@@ -1,8 +1,0 @@
-{
-  "Description": "Change virtual camera in unreal engine.", 
-  "Name": "UnrealSender", 
-  "com.elgato.counter.action": {
-    "Name": "UnrealSender", 
-    "Tooltip": "Change virtual camera in unreal engine."
-  }
-}
